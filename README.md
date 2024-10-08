@@ -1,6 +1,16 @@
 # FIRST-PROJECT-LITA-
 My first project while learning Data Analysis with Incubator Hub 
 ## Project Title : Data Analysis
+
+[Project Overview](#project-overview)
+Data Source
+Tools Used
+Data Cleaning and Preparation
+EXPLORATORY DATA ANALYSIS
+Data Analysis (Basic Excel Function)
+
+ 
+
 ## Project Overview
 This Data Analysis project aims to extract valuable insights and knowlegde from data to enhance decision-making, optimize processes and drive business growth, through various techniques including visualization, summary statistics and frequency distribution.
 ## Data Source 
