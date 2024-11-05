@@ -3,10 +3,15 @@ My first project while learning Data Analysis with Incubator Hub
 ## Project Title : Data Analysis
 
 [Project Overview](#project-overview)
-Data Source
-Tools Used
+
+[Data Source ](#Data-Source)
+
+[Tools Used](#Tools-Used)
+
 Data Cleaning and Preparation
+
 EXPLORATORY DATA ANALYSIS
+
 Data Analysis (Basic Excel Function)
 
  
